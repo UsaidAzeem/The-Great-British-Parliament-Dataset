@@ -1,0 +1,20 @@
+# Model files (too large)
+uk_left_right_binary/
+
+# Data files
+*.csv
+*.tsv
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
