@@ -1,0 +1,5 @@
+streamlit>=1.30
+plotly>=6.0
+pandas
+numpy
+scikit-learn

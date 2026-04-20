@@ -1,15 +1,14 @@
 # Model files (too large)
 uk_left_right_binary/
 
-# Data files
-*.csv
-*.tsv
-*.zip
-
 # Python
 __pycache__/
 *.pyc
 *.pyo
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
 
 # IDE
 .vscode/
